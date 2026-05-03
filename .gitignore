@@ -74,3 +74,4 @@ dist/
 
 # Gradio temporary files
 gradio_cached_examples/
+.gradio
